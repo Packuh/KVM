@@ -1,5 +1,6 @@
 #!/bin/bash
-##RIV_2019-06-03
+##   Copyright [2019-06-03] [Raskin Igor Vladimirovich (RIV)]
+##   Licensed under the Apache License, Version 2.0 (the "License");
 ##backup_online_pre.sh
 ##virsh list | grep running | awk '{print $2}'
 ##For change
