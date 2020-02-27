@@ -1,6 +1,6 @@
 # KVM
-##   Copyright [2019-06-03] [Raskin Igor Vladimirovich (RIV)]
-##   Licensed under the Apache License, Version 2.0 (the "License");
+Copyright [2019-06-03] [Raskin Igor Vladimirovich (RIV)]
+Licensed under the Apache License, Version 2.0 (the "License");
 
 This script on bash for create online backup VM on KVM for DataProtector or any soft for backup.
 1. kvm-name_POST.sh	
